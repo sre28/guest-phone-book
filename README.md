@@ -1,10 +1,12 @@
 # Guestbook
 
-Guestbook is an example application showing basic usage of Google App
+Guestbook is an application showing basic usage of Google App
 Engine. Users can read & write text messages and optionally log-in with
 their Google account. Messages are stored in App Engine (NoSQL)
 High Replication Datastore (HRD) and retrieved using a strongly consistent
 (ancestor) query.
+
+https://sreyas-sriram-guestphonebook.appspot.com/
 
 ## Products
 - [App Engine][1]
